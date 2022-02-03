@@ -1,2 +1,3 @@
 # jhock_site
-Personal site
+Personal 
+https://jmh7557.github.io/jhock_site/
