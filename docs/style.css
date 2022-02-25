@@ -1,7 +1,7 @@
 /* This is a comment in CSS. */
 body {
-background-color:red;
-color: indigo;
+background-color:pink;
+color: black;
 font-family: arial, helvetica, sans-serif; }
 /* CSS inheritance rules indicate that all elements inside the body will inherit the color and font-family properties that I set here on this BIG container element */
 
@@ -27,8 +27,8 @@ section.writing figure {
 section.writing div.analysis {
     flex:1;
     padding: 3vw;
-    background-color:maroon;
-    color:white;
+    background-color:yellow;
+    color:green;
     
 }
 
