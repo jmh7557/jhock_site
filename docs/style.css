@@ -21,13 +21,13 @@ section.writing figure {
     flex:1;
    
     padding: 3vw;
-    background-color:white;
+    background-color:grey;
 }
 
 section.writing div.analysis {
     flex:1;
     padding: 3vw;
-    background-color:grey;
+    background-color: turquoise;
     color:blue;
     
 }
@@ -72,12 +72,12 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: green;
+  color: blue;
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: black;
 }
 
 nav.menuA {text-align: center; font-size: 3vw; }
